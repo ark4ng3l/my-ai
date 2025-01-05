@@ -1,7 +1,5 @@
-Flask
-openai
-transformers
-torch
-speechrecognition
-pyaudio
-sqlite3
+transformers==4.28.0
+torch==1.13.1
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+requests==2.28.1
