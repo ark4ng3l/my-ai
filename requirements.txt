@@ -1,0 +1,7 @@
+Flask
+openai
+transformers
+torch
+speechrecognition
+pyaudio
+sqlite3
