@@ -37,5 +37,5 @@ RUN python update_repo.py
 # تعیین پورت مورد نظر
 EXPOSE 8000
 
-# اجرای برنامه اصلی (Flask)
+# اجرای برنامه اصلی
 CMD ["python", "myai.py"]
